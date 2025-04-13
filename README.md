@@ -116,5 +116,9 @@ git clone https://github.com/your-username/superconductor-tc-prediction.git
 cd superconductor-tc-prediction
 ```
 
-## Author
-- (@Ninad_Gawali)[ninadgawali2004@gmail.com]
+## License
+This project is open-source and free to use under the MIT License.
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Authors
+- [@NinadGawali](https://github.com/NinadGawali)
