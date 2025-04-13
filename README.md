@@ -95,17 +95,6 @@ Preprocessing:
 
 ---
 
-## 🔍 Key Features Influencing Tc
-
-Top contributors identified by Ridge & Lasso Regression:
-
-- Weighted Mean of Atomic Radius
-- Electron Affinity (Standard Deviation)
-- Valence Electron Configuration Entropy
-- Thermal Conductivity (Weighted Mean)
-- Electronegativity Index (Entropy & Std. Dev)
-
----
 
 ## ⚙️ Installation
 
