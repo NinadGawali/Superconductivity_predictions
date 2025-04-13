@@ -114,3 +114,7 @@ Top contributors identified by Ridge & Lasso Regression:
 ```bash
 git clone https://github.com/your-username/superconductor-tc-prediction.git
 cd superconductor-tc-prediction
+```
+
+## Author
+- (@Ninad_Gawali)[ninadgawali2004@gmail.com]
